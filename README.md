@@ -77,13 +77,13 @@ Students who never use mobile phones for education reported mixed academic perfo
 Analysis of usage distraction and academic performance suggests that phone-related distractions during lectures or study periods are more commonly associated with neutral to negative perceived performance impacts, whereas students who reported phones as not distracting tended to report neutral or positive academic outcomes. Regarding usage distraction and attention span, the highest proportion of students who experienced distractions while studying also reported having attention span difficulties. In contrast, students who did not perceive phones as distracting showed mixed responses on attention span, with nearly equal proportions reporting the presence or absence of attention-related issues.
 
 <img width="885" height="318" alt="Usage distraction vrs performance impact" src="https://github.com/user-attachments/assets/01a64744-af32-49a1-96e9-4e336742b90b" />
-<img width="627" height="585" alt="newplot" src="https://github.com/user-attachments/assets/78ee389a-d9d2-4069-8478-debb80b22695" />
+<img width="1280" height="585" alt="newplot (1)" src="https://github.com/user-attachments/assets/f16527a9-e7f4-4c08-a849-4552081126e6" />
 
 
 # 4.4.	Health Risks and Preventive Behavior
 The findings suggest that health precautions may help mitigate mobile phone–related symptoms. Students who reported occasional symptoms commonly indicated that they managed these effects by limiting screen time, while those using blue light filters were more likely to report excellent health ratings. Additionally, respondents with good health ratings frequently cited reduced screen time as a key precautionary measure, indicating a generally positive association between precautionary behaviors and perceived health outcomes.
-<img width="627" height="585" alt="newplot" src="https://github.com/user-attachments/assets/5dc855f9-d6c8-494b-8f9a-f7a76d0bdaa7" />
-<img width="627" height="585" alt="newplot (1)" src="https://github.com/user-attachments/assets/36f63fa7-4ac1-4407-8ff2-0f20f8097e2f" />
+<img width="1280" height="585" alt="newplot (1)" src="https://github.com/user-attachments/assets/df4c03ec-6528-406a-84a6-3719850275cd" />
+<img width="1280" height="585" alt="newplot (1)" src="https://github.com/user-attachments/assets/7977a6e5-516f-400b-bbc1-c7932bcac571" />
 
 
 # 4.5.	Demographic Differences
