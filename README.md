@@ -52,6 +52,4 @@ All figures, charts, and exploratory data analysis visualizations are included i
 
 ### Code
 
-The complete R script used for data preparation, exploratory data analysis, statistical testing, and result generation is available in the repository.
-
-This format is much closer to what recruiters and hiring managers expect from a GitHub data analytics project. It clearly communicates the project's purpose, tools, data source, findings, and where to find the code and report.
+The complete R script used for data preparation, exploratory data analysis, statistical testing, and result generation is available in the repository. 
